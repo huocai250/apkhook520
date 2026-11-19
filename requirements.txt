@@ -1,0 +1,5 @@
+# 520apkhook 运行依赖（Python 3.8+）
+# 一键安装：python install.py   /   bash install.sh   /   install.bat
+# 也可以直接：pip install -r requirements.txt
+rich>=12.0
+pycryptodome>=3.15
